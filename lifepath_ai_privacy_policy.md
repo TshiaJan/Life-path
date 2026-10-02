@@ -53,5 +53,5 @@ We may periodically update this Privacy Policy. Any changes will be published di
 If you have questions, feedback, or data privacy inquiries regarding LifePath AI, please contact:
 
 - **Developer:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janairedev@gmail.com
 - **Hosted Policy URL:** https://tshiajan.github.io/lifepath-ai-privacy/
